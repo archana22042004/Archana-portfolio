@@ -12,37 +12,38 @@ const projects = [
     image: school,
     description:
       "Complete school management application with admin, teacher and student modules.",
-    tech: ["Spring Boot", "Java", "MySQL"],
+    tech: ["Java", "Spring Boot", "MySQL", "React"],
     github: "#",
     demo: "#",
   },
   {
-    title: "WorkNest",
+    title: "WorkNest- Employee Management System",
     image: worknest,
     description:
       "Employee management platform for attendance, payroll and department management.",
-    tech: ["React", "Spring Boot", "MySQL"],
+    tech: ["Java", "Spring Boot", "React","MySQL"],
     github: "#",
     demo: "#",
+  },
+   {
+    title: "Portfolio Website",
+    image: portfolio,
+    description:
+      "Personal portfolio website showcasing my projects, skills and achievements.",
+    tech: ["React", "HTML", "CSS", "JavaScript"],
+    github: "https://github.com/archana22042004/Archana-portfolio",
+    demo: "https://archana-portfolio-mu.vercel.app/",
   },
   {
     title: "Flower Shop",
     image: flowershop,
     description:
       "Modern responsive flower shopping website with elegant user experience.",
-    tech: ["React", "CSS", "JavaScript"],
+    tech: ["React", "HTML", "CSS", "JavaScript"],
     github: "#",
     demo: "#",
   },
-  {
-    title: "Portfolio Website",
-    image: portfolio,
-    description:
-      "Personal portfolio website showcasing projects, skills and achievements.",
-    tech: ["React", "CSS", "JavaScript"],
-    github: "#",
-    demo: "#",
-  },
+  
 ];
 
 const Projects = () => {

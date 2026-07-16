@@ -1,0 +1,37 @@
+h1{
+
+font-family:'Space Grotesk',sans-serif;
+
+font-size:72px;
+
+font-weight:700;
+
+line-height:1.1;
+
+}
+
+h2{
+
+font-family:'Space Grotesk';
+
+font-size:48px;
+
+margin-bottom:20px;
+
+}
+
+h3{
+
+font-size:28px;
+
+}
+
+p{
+
+font-size:18px;
+
+color:var(--text);
+
+line-height:1.8;
+
+}
